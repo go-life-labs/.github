@@ -1,7 +1,9 @@
-**GoLife Labs is building a personal AI life mentor for better habits, healthier routines, and more intentional living.**
+# GoLife Labs 🌱
 
-GoLife started as a simple CLI tool and is growing into a personal life operating system: a place where health data, nutrition, habits, journaling, goals, and AI-powered reflection come together.
+**GoLife Labs is building a personal AI life mentor to help you build better habits, healthier routines, and a more intentional life.**
+
+GoLife started as a simple CLI tool and is growing into a personal life operating system — bringing together health data, nutrition, habits, journaling, goals, and AI-powered reflection in one place.
 
 Our mission is simple:
 
-> Help people understand themselves better and make better decisions every day.
+> Help people understand themselves better, make smarter daily decisions, and move one step closer to the life they want to live. ✨
